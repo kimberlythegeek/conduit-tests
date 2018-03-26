@@ -1,0 +1,1 @@
+{"response": "diff --git a/obsolete.txt b/obsolete.txt\nnew file mode 100644\n--- /dev/null\n+++ b/obsolete.txt\n@@ -0,0 +1 @@\n+abandon revision\n\n"}
